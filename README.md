@@ -15,6 +15,4 @@ N2YNG%WT5*xU!yOO$s
 ```
 <h2>Disclaimer</h2>
 
-This is made for educational purposes. Deterministic password managers can be useful for some niche applications, but the disadvantages of using one generally outweigh the benefits. Just use KeePass or something.
-
-Actually, exploiting the flaws of one of these might be fun to put into a CTF machine...
+This is made for educational purposes. Deterministic password managers can be useful for some niche applications, but the disadvantages of using one generally outweigh the benefits. Just use KeePass or something. Though maybe it'd be fun in a CTF machine.
